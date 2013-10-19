@@ -1,0 +1,111 @@
+language,filename,blank,comment,code,"http://cloc.sourceforge.net v 1.60  T=0.85 s (129.5 files/s, 13517.0 lines/s)"
+C++,Theremin/Theremin/Apple CA Helpers/CAStreamBasicDescription.cpp,74,82,631
+C/C++ Header,Theremin/Theremin/Apple CA Helpers/CADebugMacros.h,77,59,462
+Objective C++,Theremin/Theremin/Controller/VWWThereminSettingsViewController.mm,107,22,410
+Objective C,Theremin/Theremin/Model/Scenes/VWWCubeScene.m,20,55,391
+Objective C++,Theremin/Theremin/Controller/VWWThereminConfigInputFrequencyViewController.mm,72,26,359
+Objective C,Theremin/Theremin/Model/Motion/VWWMotionMonitor.m,65,53,306
+C/C++ Header,Theremin/Theremin/Apple CA Helpers/CAStreamBasicDescription.h,59,66,279
+Objective C++,Theremin/Theremin/Controller/VWWThereminViewController.mm,74,35,262
+Objective C,Theremin/Theremin/Model/Synthesizer/VWWThereminNotes.m,35,55,254
+Objective C++,Theremin/Theremin/Controller/VWWThereminConfigInputEffectsViewController.mm,45,15,249
+C/C++ Header,Theremin/Theremin/Apple CA Helpers/CAXException.h,43,41,248
+Objective C++,Theremin/Theremin/Controller/VWWThereminConfigInputWaveformsViewController.mm,38,18,246
+Objective C,Theremin/Theremin/Controller/VWWSettingsParametersViewController.m,65,30,210
+Objective C++,Theremin/Theremin/Model/VWWThereminInputAxis.mm,20,8,174
+Objective C++,Theremin/Theremin/Controller/VWWViewController.mm,48,26,157
+Objective C,Theremin/Theremin/Model/GLModel/VWWCubeModel.m,36,20,148
+Objective C++,Theremin/Theremin/Model/Synthesizer/VWWThereminSynthesizer.mm,41,39,142
+Objective C,Theremin/Theremin/Model/GLModel/VWWSquareModel.m,16,8,133
+Objective C++,Theremin/Theremin/Model/VWWThereminInput.mm,19,18,123
+Objective C,Theremin/Theremin/View/VWWConfigInputFrequencyView.m,37,8,114
+Objective C++,Theremin/Theremin/Controller/VWWThereminConfigInputAmplitudeViewController.mm,30,12,106
+Objective C++,Theremin/Theremin/Model/VWWThereminInputs.mm,25,9,104
+Objective C++,Theremin/Theremin/Controller/VWWThereminConfigInputSensitivityViewController.mm,25,10,99
+Objective C,Theremin/Theremin/Model/VWWThereminEffectNoteKey.m,4,7,89
+Objective C++,Theremin/Theremin/View/VWWThereminInstrumentView.mm,38,29,88
+Objective C,Theremin/Theremin/Controller/VWWSettingsViewController.m,53,8,79
+Objective C,Theremin/Theremin/View/VWWConfigInputAmplitudeView.m,24,17,78
+Objective C,Theremin/Theremin/View/VWWConfigInputKeyView.m,20,11,72
+Objective C,Theremin/Theremin/Controller/VWWSettingsEffectTableViewCell.m,20,18,72
+Objective C,Theremin/Theremin/Controller/VWWSettingsTableViewCell.m,14,10,67
+Objective C++,Theremin/ThereminTests/ThereminTests.mm,27,9,66
+Objective C,Theremin/Theremin/View/VWWConfigInputEffectsView.m,19,9,65
+Objective C,Theremin/Theremin/View/VWWConfigInputWaveformView.m,18,9,65
+Objective C,Theremin/Theremin/Controller/VWWSettingsAxisViewController.m,22,9,60
+C/C++ Header,Theremin/Theremin/Model/Synthesizer/VWWThereminMath.h,14,7,58
+Objective C,Theremin/Theremin/Controller/VWWSettingsGeneralViewController.m,17,11,53
+Objective C,Theremin/Theremin/Controller/VWWSettingsWaveformTableViewCell.m,19,10,52
+C/C++ Header,Theremin/Theremin/Apple CA Helpers/CADebugPrintf.h,13,44,50
+Objective C,Theremin/Theremin/Controller/VWWSettingsFrequencyTableViewCell.m,15,10,48
+Objective C++,Theremin/Theremin/Controller/VWWThereminConfigInputKeyViewController.mm,7,288,42
+Objective C,Theremin/Theremin/Controller/VWWSettingsAmplitudeTableViewCell.m,22,10,40
+Objective C,Theremin/Theremin/Controller/VWWSettingsSensitivityTableViewCell.m,13,10,40
+Objective C,Theremin/Theremin/Controller/VWWThereminAboutViewController.m,15,17,39
+C++,Theremin/Theremin/Apple CA Helpers/CADebugMacros.cpp,10,40,38
+C/C++ Header,Theremin/Theremin/Model/Synthesizer/VWWThereminTypes.h,6,8,38
+Objective C,Theremin/Theremin/Controller/VWWSettingsTableViewController.m,27,60,37
+C/C++ Header,Theremin/Theremin/VWWThereminConfiguration.h,10,8,36
+C/C++ Header,Theremin/Theremin/Model/Motion/VWWMotionMonitor.h,9,7,33
+Objective C++,Theremin/Theremin/VWWAppDelegate.mm,16,27,33
+Objective C,Theremin/Theremin/Model/Scenes/VWWScene.m,12,7,29
+Objective C,Theremin/Theremin/Controller/VWWSettingsParametersTableViewCell.m,12,9,28
+Objective C,Theremin/Theremin/Controller/VWWSettingsAxisTableViewCell.m,12,9,28
+C/C++ Header,Theremin/Theremin/Model/GLModel/VWWSquareModel.h,5,9,27
+Objective C,Theremin/Theremin/Model/VWWFileSystem.m,9,7,27
+C/C++ Header,Theremin/Theremin/VWWSettingsKeys.h,11,7,24
+Objective C,Theremin/Theremin/Controller/VWWSettingsParameterViewController.m,8,10,20
+Objective C,Theremin/Theremin/View/VWWConfigInputSensitivityView.m,8,10,19
+C/C++ Header,Theremin/Theremin/Model/Scenes/VWWScene.h,3,7,19
+Objective C,Theremin/Theremin/View/VWWThereminSettingsView.m,5,10,17
+Objective C,Theremin/Theremin/View/VWWThereminAboutView.m,5,10,17
+C/C++ Header,Theremin/Theremin/Apple CA Helpers/CAMath.h,10,36,16
+C/C++ Header,Theremin/Theremin/Model/VWWThereminInputAxis.h,4,7,15
+C/C++ Header,Theremin/Theremin/Model/VWWThereminInputs.h,4,9,15
+C/C++ Header,Theremin/Theremin/Model/Synthesizer/VWWThereminSynthesizer.h,4,7,15
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminConfigInputAmplitudeViewController.h,4,7,13
+C/C++ Header,Theremin/Theremin/Model/VWWThereminInput.h,3,7,13
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminSettingsViewController.h,6,7,13
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminConfigInputFrequencyViewController.h,5,7,13
+C/C++ Header,Theremin/Theremin/Controller/VWWViewController.h,2,7,12
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsTableViewCell.h,6,7,11
+Objective C,Theremin/Theremin/VWWLine.m,3,7,11
+C/C++ Header,Theremin/Theremin/View/VWWThereminInstrumentView.h,4,7,11
+C/C++ Header,Theremin/Theremin/View/VWWConfigInputFrequencyView.h,2,7,11
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsParametersTableViewCell.h,6,7,10
+C/C++ Header,Theremin/Theremin/Model/GLModel/VWWCubeModel.h,12,35,10
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsAxisTableViewCell.h,6,7,10
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminConfigInputEffectsViewController.h,5,7,9
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminConfigInputWaveformsViewController.h,5,7,9
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminConfigInputSensitivityViewController.h,5,7,9
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminConfigInputKeyViewController.h,3,7,9
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminAboutViewController.h,4,7,8
+Objective C,Theremin/Theremin/main.m,3,7,8
+C/C++ Header,Theremin/Theremin/View/VWWConfigInputAmplitudeView.h,2,7,8
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsWaveformTableViewCell.h,2,7,7
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsSensitivityTableViewCell.h,2,7,7
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsFrequencyTableViewCell.h,2,7,7
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsEffectTableViewCell.h,3,7,7
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsAmplitudeTableViewCell.h,2,7,7
+C/C++ Header,Theremin/Theremin/View/VWWConfigInputEffectsView.h,2,7,7
+C/C++ Header,Theremin/Theremin/View/VWWConfigInputKeyView.h,2,7,7
+C/C++ Header,Theremin/Theremin/View/VWWConfigInputWaveformView.h,2,7,7
+C/C++ Header,Theremin/Theremin/Model/Synthesizer/VWWThereminNotes.h,3,22,6
+C/C++ Header,Theremin/Theremin/VWWLine.h,2,7,6
+C/C++ Header,Theremin/Theremin/Model/VWWFileSystem.h,3,32,6
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsParametersViewController.h,2,7,5
+C/C++ Header,Theremin/Theremin/Model/Scenes/VWWCubeScene.h,3,7,4
+C/C++ Header,Theremin/Theremin/View/VWWConfigInputSensitivityView.h,3,7,4
+C/C++ Header,Theremin/Theremin/VWWAppDelegate.h,4,7,4
+C/C++ Header,Theremin/Theremin/Model/VWWThereminEffectNoteKey.h,2,7,4
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsAxisViewController.h,3,7,4
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsViewController.h,6,7,3
+C/C++ Header,Theremin/Theremin/View/VWWThereminAboutView.h,3,7,3
+C/C++ Header,Theremin/ThereminTests/ThereminTests.h,3,7,3
+C/C++ Header,Theremin/Theremin/View/VWWThereminSettingsView.h,3,7,3
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsParameterViewController.h,3,7,3
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsGeneralViewController.h,3,7,3
+C/C++ Header,Theremin/Theremin/Controller/VWWThereminViewController.h,3,6,3
+C/C++ Header,Theremin/Theremin/Controller/VWWSettingsTableViewController.h,3,7,3
+HTML,Theremin/Theremin/web/distribute.html,0,0,3
+C++,Theremin/Theremin/Apple CA Helpers/CAXException.cpp,7,40,2

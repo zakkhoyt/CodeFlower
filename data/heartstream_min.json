@@ -1,0 +1,1785 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Heartstream",
+            "children": [
+                {
+                    "name": "Documents",
+                    "children": [
+                        {
+                            "name": "distribute.html",
+                            "size": 2344,
+                            "language": "HTML"
+                        }
+                    ]
+                },
+                {
+                    "name": "ThirdParty",
+                    "children": [
+                        {
+                            "name": "gtm-httpfetcher",
+                            "children": [
+                                {
+                                    "name": "GTMHTTPFetcher.m",
+                                    "size": 1338,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMHTTPFetcherLogging.m",
+                                    "size": 780,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMHTTPUploadFetcher.m",
+                                    "size": 589,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMHTTPFetchHistory.m",
+                                    "size": 390,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMHTTPFetcherService.m",
+                                    "size": 352,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMHTTPFetcherLogViewController.m",
+                                    "size": 178,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMMIMEDocument.m",
+                                    "size": 157,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMReadMonitorInputStream.m",
+                                    "size": 122,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "GTMGatherInputStream.m",
+                                    "size": 118,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MKNetworkKit",
+                            "children": [
+                                {
+                                    "name": "MKNetworkOperation.m",
+                                    "size": 1017,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "MKNetworkEngine.m",
+                                    "size": 496,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "Reachability",
+                                    "children": [
+                                        {
+                                            "name": "Reachability.m",
+                                            "size": 322,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Categories",
+                                    "children": [
+                                        {
+                                            "name": "NSData+MKBase64.m",
+                                            "size": 169,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "NSDate+RFC1123.m",
+                                            "size": 56,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "UIImageView+MKNetworkKitAdditions.m",
+                                            "size": 52,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "NSString+MKNetworkKitAdditions.m",
+                                            "size": 43,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "NSDictionary+RequestEncoding.m",
+                                            "size": 34,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "UIAlertView+MKNetworkKitAdditions.m",
+                                            "size": 14,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mixpanel",
+                            "children": [
+                                {
+                                    "name": "Mixpanel.m",
+                                    "size": 1009,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "Library",
+                                    "children": [
+                                        {
+                                            "name": "NSData_Base64",
+                                            "children": [
+                                                {
+                                                    "name": "NSData+MPBase64.m",
+                                                    "size": 166,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "JSON",
+                                            "children": [
+                                                {
+                                                    "name": "MPCJSONDataSerializer.m",
+                                                    "size": 149,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "MPCJSONSerializer.m",
+                                                    "size": 43,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "MPCSerializedJSONData.m",
+                                                    "size": 18,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "ODIN",
+                                            "children": [
+                                                {
+                                                    "name": "ODIN.m",
+                                                    "size": 52,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lumberjack",
+                            "children": [
+                                {
+                                    "name": "DDTTYLogger.m",
+                                    "size": 983,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "DDFileLogger.m",
+                                    "size": 854,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "DDLog.m",
+                                    "size": 614,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "DDAbstractDatabaseLogger.m",
+                                    "size": 443,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "Extensions",
+                                    "children": [
+                                        {
+                                            "name": "DispatchQueueLogFormatter.m",
+                                            "size": 168,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "ContextFilterLogFormatter.m",
+                                            "size": 136,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "DDASLLogger.m",
+                                    "size": 58,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MBProgressHUD+Smile",
+                            "children": [
+                                {
+                                    "name": "MBProgressHUD.m",
+                                    "size": 852,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "AnimatedGif.m",
+                                    "size": 349,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMProgressView.m",
+                                    "size": 86,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SMProgressHUD",
+                            "children": [
+                                {
+                                    "name": "MBProgressHUD.m",
+                                    "size": 831,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMProgressView.m",
+                                    "size": 88,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "FPPopover",
+                            "children": [
+                                {
+                                    "name": "FPPopoverController.m",
+                                    "size": 436,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "FPPopoverView.m",
+                                    "size": 398,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "FPTouchView.m",
+                                    "size": 51,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SDWebImage",
+                            "children": [
+                                {
+                                    "name": "SDImageCache.m",
+                                    "size": 384,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SDWebImageDownloaderOperation.m",
+                                    "size": 268,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SDWebImageManager.m",
+                                    "size": 240,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SDWebImageDownloader.m",
+                                    "size": 179,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "UIImageView+WebCache.m",
+                                    "size": 111,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "UIButton+WebCache.m",
+                                    "size": 108,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "UIImage+GIF.m",
+                                    "size": 100,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SDWebImagePrefetcher.m",
+                                    "size": 97,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "MKAnnotationView+WebCache.m",
+                                    "size": 61,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "UIImage+WebP.m",
+                                    "size": 45,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SDWebImageDecoder.m",
+                                    "size": 44,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SDWebImageCompat.m",
+                                    "size": 34,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "UIImage+MultiFormat.m",
+                                    "size": 26,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "NSData+GIF.m",
+                                    "size": 18,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CustomBadge",
+                            "children": [
+                                {
+                                    "name": "CustomBadge.m",
+                                    "size": 194,
+                                    "language": "MUMPS"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AppleWrappers",
+                            "children": [
+                                {
+                                    "name": "KeychainitemWrapper",
+                                    "children": [
+                                        {
+                                            "name": "KeychainItemWrapper.m",
+                                            "size": 138,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Controllers",
+                    "children": [
+                        {
+                            "name": "GeneralUse",
+                            "children": [
+                                {
+                                    "name": "Photos",
+                                    "children": [
+                                        {
+                                            "name": "SMPhotosViewController.m",
+                                            "size": 997,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMPhotosExternalViewController.m",
+                                            "size": 177,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMThumbnailCollectionViewCell.m",
+                                            "size": 56,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMMainCollectionViewCell.m",
+                                            "size": 48,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Flow",
+                                            "children": [
+                                                {
+                                                    "name": "SMThumbsFlowLayout.m",
+                                                    "size": 45,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMMainFlowLayout.m",
+                                                    "size": 27,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Detail",
+                                    "children": [
+                                        {
+                                            "name": "SMImageDetailsViewController.m",
+                                            "size": 643,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMDetailViewController.m",
+                                            "size": 588,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMNotesCollectionViewCell.m",
+                                                    "size": 193,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMDetailIconTableViewCell.m",
+                                                    "size": 44,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMDetailUserTableViewCell.m",
+                                                    "size": 43,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMDetailUserCollectionViewCell.m",
+                                                    "size": 39,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMUsersCollectionViewCell.m",
+                                                    "size": 30,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMDetailTableViewCell.m",
+                                                    "size": 16,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMDetailUtilitiesTableViewCell.m",
+                                                    "size": 13,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Flow",
+                                            "children": [
+                                                {
+                                                    "name": "SMNotesCollectionViewFlowLayout.m",
+                                                    "size": 45,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMUsersCollectionViewFlowLayout.m",
+                                                    "size": 28,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "SMDetailUserPopoverViewController.m",
+                                            "size": 37,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Profile",
+                                    "children": [
+                                        {
+                                            "name": "SMProfileViewController.m",
+                                            "size": 479,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMInvitesViewController.m",
+                                            "size": 281,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMEditProfileViewController.m",
+                                            "size": 171,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMBuddiesViewController.m",
+                                            "size": 150,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMUserTableViewCell.m",
+                                                    "size": 74,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMInviteReceivedTableViewCell.m",
+                                                    "size": 72,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMInviteSentTableViewCell.m",
+                                                    "size": 68,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Events",
+                                    "children": [
+                                        {
+                                            "name": "SMEventViewController.m",
+                                            "size": 443,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMEventDetailsViewController.m",
+                                            "size": 253,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMNearbyEventsViewController.m",
+                                            "size": 246,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMSubscribedEventsViewController.m",
+                                            "size": 231,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMEventsViewController.m",
+                                            "size": 119,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMNewEventViewController.m",
+                                            "size": 93,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMEventTableViewCell.m",
+                                                    "size": 69,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMEventDetailsTableViewCell.m",
+                                                    "size": 24,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "SMEventExternalViewController.m",
+                                            "size": 54,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMAssetAnnotation.m",
+                                            "size": 17,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Library",
+                                    "children": [
+                                        {
+                                            "name": "LargeLibrary",
+                                            "children": [
+                                                {
+                                                    "name": "SMLargeLibraryViewController.m",
+                                                    "size": 319,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "Cell",
+                                                    "children": [
+                                                        {
+                                                            "name": "SMLargeLibraryCollectionViewCell.m",
+                                                            "size": 133,
+                                                            "language": "Objective C"
+                                                        },
+                                                        {
+                                                            "name": "SMLargeLibraryReusableView.m",
+                                                            "size": 10,
+                                                            "language": "Objective C"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Flow",
+                                                    "children": [
+                                                        {
+                                                            "name": "SMLargeLibraryCollectionViewFlowLayout.m",
+                                                            "size": 30,
+                                                            "language": "Objective C"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Full",
+                                            "children": [
+                                                {
+                                                    "name": "SMFullLibraryDataViewController.m",
+                                                    "size": 304,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMFullLibraryRootViewController.m",
+                                                    "size": 81,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "Cell",
+                                                    "children": [
+                                                        {
+                                                            "name": "SMFullLibraryTableViewCell.m",
+                                                            "size": 20,
+                                                            "language": "Objective C"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Library",
+                                            "children": [
+                                                {
+                                                    "name": "SMLibraryViewController.m",
+                                                    "size": 226,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "Cell",
+                                                    "children": [
+                                                        {
+                                                            "name": "SMLibraryCollectionViewCell.m",
+                                                            "size": 54,
+                                                            "language": "Objective C"
+                                                        },
+                                                        {
+                                                            "name": "SMLibraryReusableView.m",
+                                                            "size": 10,
+                                                            "language": "Objective C"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Flow",
+                                                    "children": [
+                                                        {
+                                                            "name": "SMLibraryCollectionViewFlowLayout.m",
+                                                            "size": 19,
+                                                            "language": "Objective C"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Feeds",
+                                            "children": [
+                                                {
+                                                    "name": "SMFeedsViewController.m",
+                                                    "size": 166,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "Cell",
+                                                    "children": [
+                                                        {
+                                                            "name": "SMFeedsCollectionViewCell.m",
+                                                            "size": 33,
+                                                            "language": "Objective C"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Flow",
+                                                    "children": [
+                                                        {
+                                                            "name": "SMFeedsCollectionViewFlowLayout.m",
+                                                            "size": 12,
+                                                            "language": "Objective C"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "SMLibraryViewController.m",
+                                            "size": 78,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMLibraryCollectionViewCell.m",
+                                                    "size": 21,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMLargeLibraryCollectionViewCell.m",
+                                                    "size": 10,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "SMLargeLibraryViewController.m",
+                                            "size": 20,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Flow",
+                                            "children": [
+                                                {
+                                                    "name": "SMLibraryCollectionViewFlowLayout.m",
+                                                    "size": 14,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMLargeLibraryCollectionViewFlowLayout.m",
+                                                    "size": 3,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Picker",
+                                    "children": [
+                                        {
+                                            "name": "SMImagePickerViewController.m",
+                                            "size": 266,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "User",
+                                    "children": [
+                                        {
+                                            "name": "SMUserDetailViewController.m",
+                                            "size": 262,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SMTabBarController.m",
+                                    "size": 258,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "Feedback",
+                                    "children": [
+                                        {
+                                            "name": "SMFeedbackViewController.m",
+                                            "size": 234,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMFeedbackTableViewCell.m",
+                                                    "size": 86,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Uploader",
+                                    "children": [
+                                        {
+                                            "name": "SMUploaderViewController.m",
+                                            "size": 216,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMUploaderCollectionViewCell.m",
+                                                    "size": 49,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Flow",
+                                            "children": [
+                                                {
+                                                    "name": "SMUploaderCollectionViewFlowLayout.m",
+                                                    "size": 12,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "FullScreen",
+                                    "children": [
+                                        {
+                                            "name": "SMFullImageViewController.m",
+                                            "size": 161,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMFullImageCollectionViewCell.m",
+                                                    "size": 137,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Flow",
+                                            "children": [
+                                                {
+                                                    "name": "SMFullImageViewHorizontalFlowLayout.m",
+                                                    "size": 25,
+                                                    "language": "Objective C"
+                                                },
+                                                {
+                                                    "name": "SMFullImageViewVerticalFlowLayout.m",
+                                                    "size": 3,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "GPS",
+                                    "children": [
+                                        {
+                                            "name": "SMGPSViewController.m",
+                                            "size": 121,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Invite",
+                                    "children": [
+                                        {
+                                            "name": "SMInviteViewController.m",
+                                            "size": 110,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMInviteMessageViewController.m",
+                                            "size": 99,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMInviteRedeemViewController.m",
+                                            "size": 83,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMInviteDetailsViewController.m",
+                                            "size": 67,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMInviteContactSelectViewController.m",
+                                            "size": 59,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMInviteDetailsTableViewCell.m",
+                                                    "size": 24,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SMThumbnailViewController.m",
+                                    "size": 87,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "Notifications",
+                                    "children": [
+                                        {
+                                            "name": "SMNotifiationsViewController.m",
+                                            "size": 86,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMNotificationsTableViewCell.m",
+                                                    "size": 30,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Edit",
+                                    "children": [
+                                        {
+                                            "name": "SMEditCaptionViewController.m",
+                                            "size": 74,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Debug",
+                                    "children": [
+                                        {
+                                            "name": "SMDebugViewController.m",
+                                            "size": 40,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SMSettingsViewController.m",
+                                    "size": 30,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMImageDetailsViewController.m",
+                                    "size": 21,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMFullImageViewController.m",
+                                    "size": 20,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMProfileViewController.m",
+                                    "size": 20,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMImagePickerViewController.m",
+                                    "size": 20,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMHelpViewController.m",
+                                    "size": 3,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Onboarding",
+                            "children": [
+                                {
+                                    "name": "SMOnboardingRegisterViewController.m",
+                                    "size": 281,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMOnboardingLoginViewController.m",
+                                    "size": 191,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMOnboardingPhotoCaptionViewController.m",
+                                    "size": 148,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMOnboardingRedeemInviteViewController.m",
+                                    "size": 119,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMOnboardingPhotoMarketingViewController.m",
+                                    "size": 101,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "Marketing",
+                                    "children": [
+                                        {
+                                            "name": "SMMarketingViewController.m",
+                                            "size": 79,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Flow",
+                                            "children": [
+                                                {
+                                                    "name": "SMMarketingCollectionViewFlow.m",
+                                                    "size": 41,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMMarketingCollectionViewCell.m",
+                                                    "size": 21,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SMOnboardingContactSelectViewController.m",
+                                    "size": 67,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMOnboardingContactMarketingViewController.m",
+                                    "size": 56,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMOnboardingContactMessageViewController.m",
+                                    "size": 51,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMPhotoSelectCollectionViewCell.m",
+                                    "size": 38,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMOnboardingRedeemInviteImageViewController.m",
+                                    "size": 21,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMPhotoSelectCollectionViewFlowLayout.m",
+                                    "size": 16,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMLoginTableViewCell.m",
+                                    "size": 14,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMMarketingContent.m",
+                                    "size": 3,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Base",
+                            "children": [
+                                {
+                                    "name": "Contacts",
+                                    "children": [
+                                        {
+                                            "name": "SMContactSelectViewController.m",
+                                            "size": 211,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "Cell",
+                                            "children": [
+                                                {
+                                                    "name": "SMContactsTableViewCell.m",
+                                                    "size": 34,
+                                                    "language": "Objective C"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SMExternalViewController.m",
+                                    "size": 68,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMViewController.m",
+                                    "size": 48,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMDebugSettingsViewController.m",
+                                    "size": 27,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMNavigationViewController.m",
+                                    "size": 9,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Communication",
+                    "children": [
+                        {
+                            "name": "SmileRESTEngine",
+                            "children": [
+                                {
+                                    "name": "SmileRESTEngine.m",
+                                    "size": 858,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SmileRESTSession.m",
+                                    "size": 697,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SmileRESTParser.m",
+                                    "size": 461,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "json",
+                                    "children": [
+                                        {
+                                            "name": "SMAsset.m",
+                                            "size": 354,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMSource.m",
+                                            "size": 219,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMUser.m",
+                                            "size": 199,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMContacts.m",
+                                            "size": 137,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMNotification.m",
+                                            "size": 102,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMEvent.m",
+                                            "size": 94,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMNote.m",
+                                            "size": 82,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMInvite.m",
+                                            "size": 77,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMFeedbackQuestion.m",
+                                            "size": 36,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMPagination.m",
+                                            "size": 32,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMFeedbackSection.m",
+                                            "size": 29,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMFeedbackSections.m",
+                                            "size": 25,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMFeedbackAnswer.m",
+                                            "size": 23,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMFacet.m",
+                                            "size": 21,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMContact.m",
+                                            "size": 18,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMFeedbackQuestions.m",
+                                            "size": 15,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMModel.m",
+                                            "size": 14,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SmileRESTConfig.m",
+                                    "size": 61,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "forms",
+                                    "children": [
+                                        {
+                                            "name": "SMHTTPForm.m",
+                                            "size": 51,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMCreateAssetForm.m",
+                                            "size": 24,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMUpdateUserForm.m",
+                                            "size": 24,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMUpdateAssetForm.m",
+                                            "size": 22,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMSmileSignUpForm.m",
+                                            "size": 21,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMGetHeartedAssetsForm.m",
+                                            "size": 20,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMGetFavoriteAssetsForm.m",
+                                            "size": 20,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMGetAssetsForm.m",
+                                            "size": 18,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMPageForm.m",
+                                            "size": 17,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMCreateInviteForm.m",
+                                            "size": 15,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMCreateSourceForm.m",
+                                            "size": 15,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMSmileLogInForm.m",
+                                            "size": 15,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMUpdateSourceForm.m",
+                                            "size": 15,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMGetEventsForm.m",
+                                            "size": 12,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMCreateDeviceForm.m",
+                                            "size": 11,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMCreateNoteForm.m",
+                                            "size": 11,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMGetEventAssetsForm.m",
+                                            "size": 11,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMUpdateNoteForm.m",
+                                            "size": 11,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMCreateEventForm.m",
+                                            "size": 10,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMUpdateFavoriteForm.m",
+                                            "size": 9,
+                                            "language": "Objective C"
+                                        },
+                                        {
+                                            "name": "SMNestAssetForm.m",
+                                            "size": 8,
+                                            "language": "Objective C"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MixPanel",
+                            "children": [
+                                {
+                                    "name": "SMMixpanel.m",
+                                    "size": 206,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMMixpanelConfig.m",
+                                    "size": 2,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Authentication",
+                            "children": [
+                                {
+                                    "name": "SMAuthentication.m",
+                                    "size": 116,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMKeychain.m",
+                                    "size": 48,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMCredential.m",
+                                    "size": 28,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Model",
+                    "children": [
+                        {
+                            "name": "Uploader",
+                            "children": [
+                                {
+                                    "name": "SMUploader.m",
+                                    "size": 582,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploader.m.bak.m",
+                                    "size": 267,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadedAssetFilter.m",
+                                    "size": 204,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadedAssetFilter.m.bak.m",
+                                    "size": 65,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploaderImageRipper.m",
+                                    "size": 56,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadProperties.m",
+                                    "size": 11,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadImageProperties.m",
+                                    "size": 3,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Camera",
+                            "children": [
+                                {
+                                    "name": "SMCameraOutputMonitor.m",
+                                    "size": 116,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CoreData",
+                            "children": [
+                                {
+                                    "name": "SMUploadAsset.m",
+                                    "size": 70,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMCoreData.m",
+                                    "size": 70,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadImage.m",
+                                    "size": 20,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadAudio.m",
+                                    "size": 7,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadVideo.m",
+                                    "size": 7,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUploadText.m",
+                                    "size": 7,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "ActivityView",
+                            "children": [
+                                {
+                                    "name": "SMAvatarActivity.m",
+                                    "size": 60,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMHeartstreamActivity.m",
+                                    "size": 44,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMDeleteActivity.m",
+                                    "size": 41,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMAvatarProvider.m",
+                                    "size": 7,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMDeleteProvider.m",
+                                    "size": 7,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMHeartstreamProvider.m",
+                                    "size": 7,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Feeds",
+                            "children": [
+                                {
+                                    "name": "SMHeartedFeed.m",
+                                    "size": 37,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMUserFeed.m",
+                                    "size": 21,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMFeed.m",
+                                    "size": 13,
+                                    "language": "Objective C"
+                                },
+                                {
+                                    "name": "SMInviteFeed.m",
+                                    "size": 11,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SMOnboardingModel.m",
+                            "size": 26,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "SMLocation.m",
+                            "size": 23,
+                            "language": "Objective C"
+                        }
+                    ]
+                },
+                {
+                    "name": "Utilities",
+                    "children": [
+                        {
+                            "name": "SMUtility.m",
+                            "size": 424,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "SMUserDefaults.m",
+                            "size": 303,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "FilesystemUploadChecker.m",
+                            "size": 143,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "SMOpenCV",
+                            "children": [
+                                {
+                                    "name": "SMOpenCV.mm",
+                                    "size": 139,
+                                    "language": "Objective C++"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SMOpenCV.mm",
+                            "size": 3,
+                            "language": "Objective C++"
+                        }
+                    ]
+                },
+                {
+                    "name": "Categories",
+                    "children": [
+                        {
+                            "name": "NSDate+Utilities.m",
+                            "size": 296,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "ALAssetsLibrary+SaveToAlbum.m",
+                            "size": 106,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "UIDevice+Platform.m",
+                            "size": 90,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "UIDevice+IdentifierAddition.m",
+                            "size": 64,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "NSDictionary+TypedGetters.m",
+                            "size": 48,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "UIView+Smile.m",
+                            "size": 37,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "ALAsset+metadata.m",
+                            "size": 35,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "UIColor+Smile.m",
+                            "size": 33,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "NSTimer+Blocks.m",
+                            "size": 23,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "NSString+MD5Addition.m",
+                            "size": 16,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "UIFont+Smile.m",
+                            "size": 6,
+                            "language": "Objective C"
+                        }
+                    ]
+                },
+                {
+                    "name": "SMAppDelegate.m",
+                    "size": 169,
+                    "language": "Objective C"
+                },
+                {
+                    "name": "SMSlideLeftSegue.m",
+                    "size": 45,
+                    "language": "Objective C"
+                },
+                {
+                    "name": "View",
+                    "children": [
+                        {
+                            "name": "SMHelpView.m",
+                            "size": 27,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "SMFaceDetectionView.m",
+                            "size": 18,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "SMImageView.m",
+                            "size": 13,
+                            "language": "Objective C"
+                        },
+                        {
+                            "name": "Events",
+                            "children": [
+                                {
+                                    "name": "SMEventMapOverlay.m",
+                                    "size": 3,
+                                    "language": "Objective C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SMPushCrossfadeSegue.m",
+                    "size": 15,
+                    "language": "Objective C"
+                },
+                {
+                    "name": "main.m",
+                    "size": 8,
+                    "language": "Objective C"
+                }
+            ]
+        },
+        {
+            "name": "HeartstreamTests",
+            "children": [
+                {
+                    "name": "HeartstreamTests.m",
+                    "size": 208,
+                    "language": "Objective C"
+                }
+            ]
+        },
+        {
+            "name": "tools",
+            "children": [
+                {
+                    "name": "generateLicenses.pl",
+                    "size": 49,
+                    "language": "Perl"
+                },
+                {
+                    "name": "bump_build_number.sh",
+                    "size": 5,
+                    "language": "Bourne Shell"
+                },
+                {
+                    "name": "generateLicenses.sh",
+                    "size": 1,
+                    "language": "Bourne Shell"
+                }
+            ]
+        },
+        {
+            "name": "SimplePush",
+            "children": [
+                {
+                    "name": "prod.php",
+                    "size": 26,
+                    "language": "PHP"
+                },
+                {
+                    "name": "dev.php",
+                    "size": 26,
+                    "language": "PHP"
+                }
+            ]
+        }
+    ]
+}
